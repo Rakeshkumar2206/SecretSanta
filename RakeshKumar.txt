@@ -1,6 +1,6 @@
 <span id="a">Rakesh@Kumar</span>:<span id="b">~</span><span id="c">$</span> cd My Profile/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
 <span id="a">Rakesh@Kumar</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->RakeshKumar.txt<br/><br/>
-My favorite quote, "<span id="k">Privacy is more imortant that Virginity</span>". <!-- sjkfhskjf -->
+My favorite quote, "<span id="k">Privacy is more important that Virginity</span>". <!-- sjkfhskjf -->
 
 Hey There! This is my portfolio website.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see all the specifics about me, over here.</p>
 <p>Hi, My name is Rakesh Kumar </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
