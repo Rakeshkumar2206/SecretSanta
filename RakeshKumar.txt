@@ -1,13 +1,15 @@
-<span id="a">code@nerve</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
-<span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
+<span id="a">Rakesh@Kumar</span>:<span id="b">~</span><span id="c">$</span> cd My Profile/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
+<span id="a">Rakesh@Kumar</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->RakeshKumar.txt<br/><br/>
 My favorite quote, "<span id="k">Privacy is more imortant that Virginity</span>". <!-- sjkfhskjf -->
 
 Hey There! This is my portfolio website.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see all the specifics about me, over here.</p>
-<p>Hi, My name is Rakesh Kumar R.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> Myself a noob in computer programming and algoithims, but i have a well versed knowledge in hardware in securty i did my under graduate in B.A Criminology and Police Administration and curretnly pursuing my masters in MCA with information securtiy. My passion is working with computer security and privacy related content and I also love to build computers and i have built more than dozen of em till date and will ove to build more. My hobbies are gaming exploring for food and and i have a crazy love over mechanical keyboards.
-<p>Relation ship status is Single currently and would love to maintain that for few more years like that. <br><br><br>You can view my gizzly printed face at Instagram . <a href="https://www.instagram.com/localhost_192.168.0.1/?hl=en"> Here you go</a>.</p><!-- Instagram ID -->
+<p>Hi, My name is Rakesh Kumar </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> Myself a noob in Computer programming and algorithms, but I have a high density knowledge over computer hardware and in computer security. I did my under graduate in B.A Criminology and Police Administration and currently pursuing my masters in MCA with Information Security. 
+<p> My passion is to work in the computer security and privacy related domain and I also love to build computers, I have built more than dozen of them till date and will try to build more.
+<p> My hobbies are gaming, exploring food and building mechanical keyboards this is a whole new shit to be honest. 
+<p>Relation ship status is currently single and would love to maintain that for a few more years. <br><br><br>You can view my grizzly printed face at Instagram . <a href="https://www.instagram.com/localhost_192.168.0.1/?hl=en"> Here you go</a>.</p><!-- Instagram ID -->
 <p> Follow me on Reddit here: <br> <a href="https://www.reddit.com/user/TTV_DINAKARAN">Reddit</a> 
 
-You can also contact me here<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="rakeshkumar_secure@protonmail.com">Email</a>.
+You can also contact at<!-- slightdelayhere-->, rakeshkumar_secure@protonmail.com 
 
 <p>Cheers!</p>
