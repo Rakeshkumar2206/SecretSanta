@@ -1,12 +1,12 @@
 <span id="a">Rakesh@Kumar</span>:<span id="b">~</span><span id="c">$</span> cd My Profile/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
 <span id="a">Rakesh@Kumar</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->RakeshKumar.txt<br/><br/>
-My favorite quote, "<span id="k">Privacy is more important that Virginity</span>". <!-- sjkfhskjf -->
+My favorite quote, "<span id="k">Privacy is more important than Virginity</span>". <!-- sjkfhskjf -->
 
 Hey There! This is my website where,<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see all the specifics about me, over here.</p>
 <p>Hi, My name is Rakesh Kumar </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> Myself a noob in Computer programming and algorithms, but I have a high density knowledge over computer hardware and in computer security. I did my under graduate in B.A Criminology and Police Administration and currently pursuing my masters in MCA with Information Security. 
 <p> My passion is to work in the computer security and privacy related domain and I also love to build computers, I have built more than dozen of them till date and will try to build more.
-<p> My hobbies are gaming, exploring food and building mechanical keyboards this is a whole new shit to be honest. 
+<p> My hobbies are gaming, exploring food and building mechanical keyboards this is a whole new addiction to be honest. 
 <p>Relation ship status is currently single and would love to maintain that for a few more years. <br><br><br>You can view my grizzly printed face at Instagram . <a href="https://www.instagram.com/localhost_192.168.0.1/?hl=en"> Here you go</a>.</p><!-- Instagram ID -->
 <p> Follow me on Reddit here: <br> <a href="https://www.reddit.com/user/TTV_DINAKARAN">Reddit</a> 
 
