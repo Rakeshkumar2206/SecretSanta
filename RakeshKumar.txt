@@ -9,7 +9,7 @@ Hey There! This is my website where,<!-- laglaglaglaglaglaglaglaglaglaglaglag --
 <p> My hobbies are gaming, exploring food and building mechanical keyboards this is a whole new addiction to be honest. 
 <p>Relation ship status is currently single and would love to maintain that for a few more years. <br><br><br>You can view my grizzly printed face at Instagram . <a href="https://www.instagram.com/localhost_192.168.0.1/?hl=en"> Here you go</a>.</p><!-- Instagram ID -->
 <p> Follow me on Reddit here: <br> <a href="https://www.reddit.com/user/TTV_DINAKARAN">Reddit</a> 
-<p> You can listen to my Podcasts here: <br> <a href="https://rss.com/podcasts/rakeshkumar/104281/">REFRESHNOLOGY</a> 
+<p> You can listen to my Podcasts here: <br> <a href="https://rss.com/podcasts/rakeshkumar/">REFRESHNOLOGY</a> 
 
 
 You can also contact at<!-- slightdelayhere-->, rakeshkumar_secure@protonmail.com 
