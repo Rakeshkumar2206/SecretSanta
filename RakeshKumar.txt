@@ -12,6 +12,6 @@ Hey There! This is my website where,<!-- laglaglaglaglaglaglaglaglaglaglaglag --
 <p> You can listen to my Podcasts here: <br> <a href="https://anchor.fm/rakesh-kumar0728">REFRESHNOLOGY</a> 
 
 
-You can also contact at<!-- slightdelayhere-->, rakeshkumar_secure@protonmail.com 
+You can also contact me at<!-- slightdelayhere-->, rakeshkumar_secure@protonmail.com 
 
 <p>Cheers!</p>
