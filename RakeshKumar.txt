@@ -10,9 +10,9 @@ Hey There! This is my website where,<!-- laglaglaglaglaglaglaglaglaglaglaglag --
 <p>Relation ship status is currently single and would love to maintain that for a few more years. <br><br><br>You can view my grizzly printed face at Instagram . <a href="https://www.instagram.com/localhost_192.168.0.1/?hl=en"> Here you go</a>.</p><!-- Instagram ID -->
 <p> Follow me on Reddit here: <br> <a href="https://www.reddit.com/user/TTV_DINAKARAN">Reddit</a> 
 <p> You can listen to my Podcasts here: <br> <a href="https://anchor.fm/rakesh-kumar0728">REFRESHNOLOGY</a> 
-<p> You can also hire me at <br> <a href=" https://www.fiverr.com/rakeshkumar924">FIVERR</a> 
+<p> You can also hire me at <br> <a href="https://www.fiverr.com/rakeshkumar924">FIVERR</a> 
 
 
-You can also contact me at<!-- slightdelayhere-->, rakeshkumar_secure@protonmail.com 
+You can also contact me at<!-- slightdelayhere-->, <a href="mailto:rakeshkumar_secure@protonmail.com">here</a>
 
 <p>Cheers!</p>
