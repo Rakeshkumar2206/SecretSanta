@@ -1,14 +1,14 @@
 <span id="a">Rakesh@Kumar</span>:<span id="b">~</span><span id="c">$</span> cd My Profile/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
 <span id="a">Rakesh@Kumar</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->RakeshKumar.txt<br/><br/>
-My favorite quote, "<span id="k">Privacy is more important than Virginity</span>". <!-- sjkfhskjf -->
+My favorite quote, "<span id="k">Protecting one's privacy is a fundamental right that should never be compromised, unlike the societal obsession with virginity</span>". <!-- sjkfhskjf -->
 
 Hey There! This is my website where,<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see all the specifics about me, over here.</p>
-<p>Hi, My name is Rakesh Kumar </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> Myself a noob in Computer programming and algorithms, but I have a high density knowledge over computer hardware and in computer security. I did my under graduate in B.A Criminology and Police Administration and currently pursuing my masters in MCA with Information Security. 
-<p> My passion is to work in the computer security and privacy related domain and I also love to build computers, I have built more than dozen of them till date and will try to build more.
-<p> My hobbies are gaming, exploring food and building keyboards and computers this is a whole new addiction to be honest. 
-<p> I collect diecast cars of 1:64 and some classic Thinkpads too and currently i own a X60, T40, X220i, X250 and T450
-<p>Relation ship status is currently single and would love to maintain that for a few more years. <br><br><br>You can view my grizzly printed face at Instagram . <a href="https://www.instagram.com/prof.rangabashiym_charukesi/?hl=en"> Here you go</a>.</p><!-- Instagram ID -->
+<p>Hi, Myself Rakesh Kumar </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> Myself a noob in securing anything made with Silicon and Gallium-Arsenide compounds and algorithms, but I have a high density knowledge over computer-hardware and Information security auditing, yeah IKR sounds vague like jumping from one branch to another branch. Trust me Im a bit good at it. I did my under graduate in B.A Criminology and Police Administration and pursued my masters in MCA with Information Security. 
+<p> My passion is to work in the Information security and privacy related domain and I also love to build computers, I have built more than baker's dozen of them till date and will try to build more.
+<p> My hobbies are gaming (Conole nor PC Games), exploring food and building mech keyboards and computers this is a whole new addiction to be honest. 
+<p> I collect diecast cars of 1:64 and some classic Thinkpads too and currently I own a X60, X60i, T40, X220i, X250, T450 and X1 Carbon 7th Gen
+<p>Relation ship status is currently Cohabitant and would love to maintain that for a few more years. <br><br><br>You can view my grizzly printed face at Instagram . <a href="https://www.instagram.com/rakesh_kumar_rajasekar/?hl=en"> Here you go</a>.</p><!-- Instagram ID -->
 <p> Follow me on Reddit here: <br> <a href="https://www.reddit.com/user/TTV_DINAKARAN">Reddit</a> 
 
 
