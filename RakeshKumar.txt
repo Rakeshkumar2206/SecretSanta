@@ -7,7 +7,7 @@ Hello Suresh! By now you would have known whom your secret santa is!!!<!-- lagla
 
 <p> Okay, Now here comes the only challenge you have to solve - <span id="k"> 9:4=79><;:27984;;>><9 <!-- sjkfhskjf --> 
 
-<p>BTW, it's encoded using a variation of the Caesar Cipher. It name of the encryption standard commences with 'R' and concludes with 'T.'
+<p>BTW, it's encoded using a variation of the Caesar Cipher. The name of the encryption standard commences with 'R' and concludes with 'T.'
 
 <p> The Key for the Above would be - "How Old is CyRAACS"
 
